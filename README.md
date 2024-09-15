@@ -1,6 +1,9 @@
 # C/C++ Guide
 
 ## Arrays in C
+
+[Reference Video:](https://www.youtube.com/watch?v=MOeGnamlUP4)
+
 **Definition:**
 
 An array is a data structure that stores multiple pieces of the same data in contiguous memory locations.
