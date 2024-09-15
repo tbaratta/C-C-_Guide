@@ -2,7 +2,7 @@
 
 ## Arrays in C
 
-[Reference Video:](https://www.youtube.com/watch?v=MOeGnamlUP4)
+Reference Video: [C Arrays | C Programming For Beginners](https://www.youtube.com/watch?v=MOeGnamlUP4)
 
 **Definition:**
 
