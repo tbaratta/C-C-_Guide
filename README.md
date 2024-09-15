@@ -31,6 +31,9 @@ Write a C program that performs the following tasks with a one-dimensional array
 
 
 ## Pointers in C
+
+Reference Video: [Pointer Arithmetic (Addition)](https://www.youtube.com/watch?v=FmptkK2XZ0w)
+
 **Definition:**
 
 A pointer in C is a variable that stores the memory address of another variable. Pointers allow direct access and manipulation of memory locations, which can be useful for dynamic memory allocation, passing variables by reference, and optimizing performance.
