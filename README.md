@@ -17,7 +17,7 @@ An array is like a box with slots. Each slot holds a value of the same datatype,
 
 - Arrays in C can have more than one dimension, like 2D arrays commonly used for storing tables of data.
 
-**Practice Assignment:** Basic Array Operations
+**Practice Assignment:** Basic Array Operations (See basic_array_operations.c for a solution)
 
 Write a C program that performs the following tasks with a one-dimensional array:
 
