@@ -17,7 +17,7 @@ An array is like a box with slots. Each slot holds a value of the same datatype,
 
 - Arrays in C can have more than one dimension, like 2D arrays commonly used for storing tables of data.
 
-**Practice Assignment:** Basic Array Operations (See basic_array_operations.c for a solution)
+**Practice Assignment:** Basic Array Operations (See basic_array_operations.c for solution)
 
 Write a C program that performs the following tasks with a one-dimensional array:
 
@@ -44,15 +44,15 @@ Address-of Operator &: You can get the memory address of a variable using the & 
 - Dereferencing *: Dereferencing a pointer means accessing the value at the memory address stored by the pointer. Example: *p = 10; assigns the value 10 to the variable p points to.
 
 - Null Pointers: Pointers should be initialized before use. A common practice is to assign NULL to a pointer when it's not pointing to any valid memory location.
-**Practice Assignment:** Basic Array Operations (See basic_array_operations.c for a solution)
+  
+**Practice Assignment:** Pointer and Array Operations (See pointer_array_operations.c for solution)
 
-Write a C program that performs the following tasks with a one-dimensional array:
+Write a C program that performs the following tasks with a one-dimensional array and pointers:
 
 - Declare an array of integers with a size of 5.
-- Input 5 integer values from the user and store them in the array.
-- Display the array.
-- Find and print the largest and smallest element in the array.
-
-
+- Declare a pointer to the array using the dereference operator.
+- Instruct the user to input 5 values to the array.
+- Print the array in reverse order using pointer arithmetic
+- Calculate the sum using pointer arithemtic.
 
 
