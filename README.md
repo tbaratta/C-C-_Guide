@@ -56,9 +56,9 @@ Address-of Operator &: You can get the memory address of a variable using the & 
 Write a C program that performs the following tasks with a one-dimensional array and pointers:
 
 - Declare an array of integers with a size of 5.
-- Declare a pointer to the array using the dereference operator.
+- Declare a pointer to the array.
 - Instruct the user to input 5 values to the array.
-- Print the array in reverse order using pointer arithmetic
-- Calculate the sum using pointer arithemtic.
+- Print the array in reverse order using pointer arithmetic.
+- Calculate the sum using pointer arithmetic.
 
 
